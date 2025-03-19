@@ -1,0 +1,7 @@
+pillow
+torch
+accelerate
+TotalSegmentator
+gradio
+nibabel
+matplotlib
